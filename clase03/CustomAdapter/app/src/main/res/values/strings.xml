@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CustomAdapter</string>
+    <string-array name="Characters">
+        <item>Rick Sanchez</item>
+        <item>Morty Smith</item>
+        <item>Summer Smith</item>
+        <item>Jerry Smith</item>
+        <item>Beth Sanchez</item>
+        <item>Snuffles</item>
+        <item>Mr Meeseeks</item>
+        <item>Unity</item>
+    </string-array>
+</resources>

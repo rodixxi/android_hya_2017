@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Figuras</string>
+    <string-array name="figures_array">
+        <item>Rectangulo</item>
+        <item>Circulo</item>
+        <item>Triangulo</item>
+    </string-array>
+</resources>

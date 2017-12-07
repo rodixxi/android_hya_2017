@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">musicPlayer</string>
+    <string name="bntPlayMusic">Play</string>
+    <string name="channel_id">0</string>
+    <string name="channel_name">name</string>
+    <string name="channel_description">description</string>
+    <string name="intentAction">3434512</string>
+    <string name="actionId">686745364</string>
+</resources>
